@@ -16,3 +16,5 @@
 > 
 5.运行实例代码
  + 通过第四步的编译会生成一个GetExample.class文件，通过命令行运行: **java -cp .:lib/*:src GetExample**  
+
+可以通过同样的方式调试PostExample.java
